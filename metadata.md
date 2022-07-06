@@ -1,6 +1,6 @@
 ---
-title: The Title of my Worldshaking Masterthesis
-author: Mike Wazowski
+title: Summer Training
+author: Abdullah AlMubarak
 documentclass: scrbook
 classoption: 
    - 12pt
@@ -29,7 +29,6 @@ lof: true
 lot: true
 include-before:
     - include/titlepage.tex
-    - include/eigenstaendigkeitserklaerung.tex
     - include/abstract.tex
     - include/acknowledgements.tex
 include-after:
